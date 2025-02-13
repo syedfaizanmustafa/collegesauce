@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["29388HG78V.com.sarahboggs.collegesauce"],
+        "components": [
+          {
+            "/": "/event/*",
+            "comment": "Open the app for any /event/ path, e.g., /event/123"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["29388HG78V.com.sarahboggs.collegesauce"]
+  },
+  "appclips": {
+    "apps": ["29388HG78V.com.sarahboggs.collegesauce.Clip"]
+  }
+}
